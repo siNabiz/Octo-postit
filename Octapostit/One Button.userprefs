@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Prefabs\CollidePink.cs">
+    <Files>
+      <File FileName="Assets\Arm.cs" Line="34" Column="40" />
+      <File FileName="Assets\Respawn.cs" Line="57" Column="4" />
+      <File FileName="Assets\BlueCollidor.cs" Line="12" Column="39" />
+      <File FileName="Assets\Prefabs\CollidePink.cs" Line="10" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
